@@ -23,10 +23,8 @@ void merge(int a[], int m, int middle, int n){
             sorted[k] = a[t];
             k++;
         }
-    } else
-    {
-        for(int t = i; t <= middle; t++)
-        {
+    } else{
+        for(int t = i; t <= middle; t++){
             sorted[k] = a[t];
             k++;
         }   
