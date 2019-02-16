@@ -32,33 +32,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="722fa1cb-c9d6-4631-acb4-48d4aa1d0c06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1021/.idea/1021.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1021/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1021/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1021/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1021/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1021/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1021/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue/.idea/Queue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/.idea/Stack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deque/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1021/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1021/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1021/cmake-build-debug/1021" beforeDir="false" afterPath="$PROJECT_DIR$/1021/cmake-build-debug/1021" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1021/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1021/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deque/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/deque/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

@@ -34,33 +34,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d114dfef-f3f5-4aa7-bfc6-f44c3dc0f145" name="Default Changelist" comment="test Clion">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/1021.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/.idea/Queue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/.idea/Stack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../deque/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/1021" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/1021" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deque/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../deque/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="268">
+              <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -166,7 +145,7 @@
       <updated>1550148772806</updated>
       <workItem from="1550148774210" duration="489000" />
       <workItem from="1550149379515" duration="2191000" />
-      <workItem from="1550254129324" duration="2195000" />
+      <workItem from="1550254129324" duration="4788000" />
     </task>
     <task id="LOCAL-00001" summary="test Clion">
       <created>1550149538622</created>
@@ -179,19 +158,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4875000" />
+    <option name="totallyTimeSpent" value="7468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="695" y="23" width="985" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12937434" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17921527" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3090909" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.38930482" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -216,14 +195,25 @@
     <MESSAGE value="test Clion" />
     <option name="LAST_COMMIT_MESSAGE" value="test Clion" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        <state relative-caret-position="268">
+          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
