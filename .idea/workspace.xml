@@ -32,21 +32,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="722fa1cb-c9d6-4631-acb4-48d4aa1d0c06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/11051/.idea/11051.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11051/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11051/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11051/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11051/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11051/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11051/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11051/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1932/.idea/1932.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1932/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1932/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1932/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1932/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1932/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1932/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1932/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11050/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/11050/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11050/cmake-build-debug/11050" beforeDir="false" afterPath="$PROJECT_DIR$/11050/cmake-build-debug/11050" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11050/cmake-build-debug/CMakeFiles/11050.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/11050/cmake-build-debug/CMakeFiles/11050.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11050/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/11050/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11051/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/11051/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deque/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/deque/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,8 +57,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
               </first_editor>
               <second_editor />
             </state>
@@ -84,8 +80,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="560" />
     <option name="y" value="23" />
-    <option name="width" value="1521" />
+    <option name="width" value="1120" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -144,18 +141,18 @@
       <workItem from="1550148119981" duration="16000" />
       <workItem from="1550148473397" duration="1272000" />
       <workItem from="1550255172877" duration="383000" />
-      <workItem from="1550395027815" duration="106000" />
+      <workItem from="1550395027815" duration="797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2910000" />
+    <option name="totallyTimeSpent" value="3601000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1521" height="1027" extended-state="0" />
+    <frame x="560" y="23" width="1120" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13995942" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19202226" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -238,8 +235,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
           </first_editor>
           <second_editor />
         </state>
