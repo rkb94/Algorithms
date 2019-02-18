@@ -24,7 +24,7 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="1932" targetName="1932" />
+      <config projectName="2579" targetName="2579" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -33,18 +33,18 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0ea7e26-5014-49e0-bbca-8076309c66ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../2579/.idea/2579.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2579/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2579/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2579/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2579/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2579/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2579/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2579/main.cpp" afterDir="false" />
+    <list default="true" id="8518fbf7-d569-4294-8515-e6f82a7ba140" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/2579.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../11051/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../11051/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1932/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1932/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,8 +64,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            <state relative-caret-position="300">
+              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,8 +86,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="803" />
     <option name="y" value="23" />
-    <option name="width" value="840" />
+    <option name="width" value="877" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -93,8 +97,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -115,7 +119,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="1932" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1932" TARGET_NAME="1932" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="1932" RUN_TARGET_NAME="1932">
+    <configuration name="2579" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2579" TARGET_NAME="2579" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2579" RUN_TARGET_NAME="2579">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -126,41 +130,41 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b0ea7e26-5014-49e0-bbca-8076309c66ef" name="Default Changelist" comment="" />
-      <created>1550395558183</created>
+      <changelist id="8518fbf7-d569-4294-8515-e6f82a7ba140" name="Default Changelist" comment="" />
+      <created>1550492402269</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550395558183</updated>
-      <workItem from="1550395559498" duration="6114000" />
+      <updated>1550492402269</updated>
+      <workItem from="1550492404053" duration="8050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6114000" />
+    <option name="totallyTimeSpent" value="8050000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="840" height="1027" extended-state="0" />
+    <frame x="803" y="23" width="877" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1528822" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07904191" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Messages" weight="0.32941177" />
       <window_info anchor="bottom" id="TeamCity" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41604277" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="LuaJ" />
       <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="LuaJ" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -169,30 +173,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>33</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>24</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="300">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

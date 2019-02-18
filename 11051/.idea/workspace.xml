@@ -34,17 +34,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f198ce9-3c55-4195-9453-1aa1970fed51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../1932/.idea/1932.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1932/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1932/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1932/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1932/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1932/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1932/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1932/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2579/.idea/2579.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2579/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2579/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2579/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2579/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2579/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2579/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2579/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1932/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1932/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
