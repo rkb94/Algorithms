@@ -34,9 +34,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0ea7e26-5014-49e0-bbca-8076309c66ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../2579(1)/.idea/2579(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2579(1)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2579(1)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2579(1)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2579(1)/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2579(1)/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9251/.idea/9251.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9251/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9251/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9251/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9251/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../9251/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../11051/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../11051/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2579/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11051/cmake-build-debug/CMakeFiles/11051.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../11051/cmake-build-debug/CMakeFiles/11051.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11051/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../11051/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/.idea/2579.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2579(1)/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9251/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2579(1)/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../9251/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/2579" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/2579.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2579/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/.idea/misc.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,7 +106,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor" />
@@ -56,8 +115,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            <state relative-caret-position="450">
+              <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -123,39 +182,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550395558183</updated>
-      <workItem from="1550395559498" duration="6114000" />
+      <workItem from="1550395559498" duration="6148000" />
+      <workItem from="1550816626493" duration="593000" />
+      <workItem from="1551072378014" duration="536000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6114000" />
+    <option name="totallyTimeSpent" value="7277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="840" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1528822" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.160401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="CMake" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Messages" weight="0.32941177" />
-      <window_info anchor="bottom" id="TeamCity" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="LuaJ" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="TeamCity" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="CMake" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="LuaJ" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,8 +244,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="450">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
         </state>
       </provider>
     </entry>
