@@ -34,68 +34,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f198ce9-3c55-4195-9453-1aa1970fed51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../2579(1)/.idea/2579(1).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2579(1)/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2579(1)/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2579(1)/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2579(1)/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2579(1)/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9251/.idea/9251.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9251/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9251/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9251/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9251/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9251/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/11051.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/11051.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1932/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1932/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/.idea/2579.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2579(1)/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9251/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2579(1)/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../9251/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/2579" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/2579.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/2579.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2579/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9251/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9251/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9251/cmake-build-debug/9251" beforeDir="false" afterPath="$PROJECT_DIR$/../9251/cmake-build-debug/9251" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9251/cmake-build-debug/CMakeFiles/9251.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../9251/cmake-build-debug/CMakeFiles/9251.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9251/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../9251/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test1/.idea/misc.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
